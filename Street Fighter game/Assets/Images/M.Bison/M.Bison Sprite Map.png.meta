@@ -1,0 +1,1306 @@
+fileFormatVersion: 2
+guid: f4b33a54c05df7e4c81582e7fc5a776a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stand_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 464
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4050d5227e4984b862ab32c7beda85
+      internalID: 1110759537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 464
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c42014c7310d1940b8e96a127847f21
+      internalID: 555087342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 464
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327cc9943ef212b438f44b7060030cbf
+      internalID: 1561414765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 464
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bb5a53271953845844498df55a4d08
+      internalID: -296443677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 464
+        width: 31
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3886968759851b147a649d1bf7c84f6f
+      internalID: 960028982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 464
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8517859aeefb7044aa55f6b1c99a7a53
+      internalID: -1429177800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 464
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c55f91fd676d347be60227f3ca7591
+      internalID: -322985639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 464
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e2f142184a30248b4bc417edc56256
+      internalID: 921892716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_8
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 464
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a75f39d4e967f48a19313a23be62bd
+      internalID: 1409601749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 392
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4a5f5bad8365d4b8e304e1e9927dd5
+      internalID: -683993971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 392
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66aed8147ed9ea4d8e5b83b05c070c5
+      internalID: -1773361039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 392
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ffd10dca05d984d95b3f0cfaf49f62
+      internalID: 1628015644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 392
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bbf6e14d5fa4145849d8edbf9669f7
+      internalID: 226677776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 392
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4754830d2d880184485b6af57a46d977
+      internalID: 1676173141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 392
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a06a47948221c41bdb72171ca24574
+      internalID: -595101907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 304
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b2c45f865aa2d4088dda2b8b74f0ba
+      internalID: 748867710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 304
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244fe0a798ef62042aa41bd19f2a1358
+      internalID: 1584477928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a9798f52f96d14cafb290bb62e71dd
+      internalID: -43814921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_18
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 304
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c029136f3e4bda47ac59a289443d58d
+      internalID: -764930364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 304
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0186aa06e4bf8cf4ba813f98f99d5f7a
+      internalID: -482856490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_20
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 304
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9857488759c4cd24ba7acf728a06bdd0
+      internalID: -1876548249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_21
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 304
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faf02a91b34e9744a0614b505965cae
+      internalID: 402352368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 304
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d868fbfc9fd89f45b2f972fa0344211
+      internalID: 398038789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 224
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cd9907db1d569429272a82db6ac8b7
+      internalID: -1071100017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa96d5f4dd7aa4a458c7430f2d83bf7f
+      internalID: 574442389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 224
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea6ee8ee6ec78148b318bfe44c56301
+      internalID: -1025085125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f1764328b529e4080d9648367036b3
+      internalID: -910098610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b79d24424c9524481287ecd31365c2
+      internalID: -191778281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 224
+        width: 79
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950fafa34a55fc740a5ad94f7694d09a
+      internalID: 1931751502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_29
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 224
+        width: 79
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a375e3c3eb75445a567adaf69021bb
+      internalID: -439663260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 77
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e319b691e6c4c3e45983eb141de28b2d
+      internalID: -2050044856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 136
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0253b8cc0b6ba0488fcb34dc2c1c77d
+      internalID: -1743861878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 136
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13fb87ef2ec1f340a88d5cc34611e47
+      internalID: -480138408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 136
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011dbfe491a44a448a1d576dfb05943a
+      internalID: 442514246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_34
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 182
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ccfb2eecd6ae4498a9c08b70092c92
+      internalID: -806610182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_35
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 180
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6a7f60dc253be44b9a0dfd456dd241
+      internalID: -142465008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_36
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 136
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088fab799f10a124eb700bcf18a76e00
+      internalID: -1846188962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_37
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 136
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd10e19889b52bd49b36f01a8a729122
+      internalID: -1284404692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 136
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e016ae43d13bc4a8e3e915979ccf37
+      internalID: -2072725172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 136
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2041577c1714b1747a83010c09a84724
+      internalID: -1971719112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_40
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 136
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b66e6d8203773b44b05197c61f0aefc
+      internalID: -1220190472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 28
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdc1607a28afd140a23d7a52d29155c
+      internalID: 1978946531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 120
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972d8279893835349af30a1931a21600
+      internalID: -1269544093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_43
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 120
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fc43c951e5f89429a342a515941d81
+      internalID: -743014488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_44
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 120
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efbc087928dafb4ca9591e1fd3624dc
+      internalID: 744492199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_45
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 120
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c486a02567f6d254f8a6e0a84e17055d
+      internalID: 1254987053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_46
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 120
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cc7f3f97583a542b027bdcc8ad7b40
+      internalID: -1811461452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 69
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57d7777cf806604580b3c50b3bc7579
+      internalID: -53660011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_48
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb0b4b1267b6284c8e59b2b8eca2763
+      internalID: -1015191484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_49
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 48
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e19bf41bdec2446b50434446fb2c84
+      internalID: 262554870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_50
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06354de1bb38504499a8a936c93f969b
+      internalID: 121074002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_51
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 48
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6198e8886da9ac4e9c699b3f05c8214
+      internalID: 2088487128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M.Bison Sprite Map_52
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 275
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d846c3751e7bb5b42abbad2a2a5b7e98
+      internalID: 2142938912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      M.Bison Sprite Map_10: -1773361039
+      M.Bison Sprite Map_11: 1628015644
+      M.Bison Sprite Map_12: 226677776
+      M.Bison Sprite Map_13: 1676173141
+      M.Bison Sprite Map_14: -595101907
+      M.Bison Sprite Map_15: 748867710
+      M.Bison Sprite Map_16: 1584477928
+      M.Bison Sprite Map_17: -43814921
+      M.Bison Sprite Map_18: -764930364
+      M.Bison Sprite Map_19: -482856490
+      M.Bison Sprite Map_2: 1561414765
+      M.Bison Sprite Map_20: -1876548249
+      M.Bison Sprite Map_21: 402352368
+      M.Bison Sprite Map_22: 398038789
+      M.Bison Sprite Map_23: -1071100017
+      M.Bison Sprite Map_24: 574442389
+      M.Bison Sprite Map_25: -1025085125
+      M.Bison Sprite Map_26: -910098610
+      M.Bison Sprite Map_27: -191778281
+      M.Bison Sprite Map_28: 1931751502
+      M.Bison Sprite Map_29: -439663260
+      M.Bison Sprite Map_3: -296443677
+      M.Bison Sprite Map_30: -2050044856
+      M.Bison Sprite Map_31: -1743861878
+      M.Bison Sprite Map_32: -480138408
+      M.Bison Sprite Map_33: 442514246
+      M.Bison Sprite Map_34: -806610182
+      M.Bison Sprite Map_35: -142465008
+      M.Bison Sprite Map_36: -1846188962
+      M.Bison Sprite Map_37: -1284404692
+      M.Bison Sprite Map_38: -2072725172
+      M.Bison Sprite Map_39: -1971719112
+      M.Bison Sprite Map_4: 960028982
+      M.Bison Sprite Map_40: -1220190472
+      M.Bison Sprite Map_41: 1978946531
+      M.Bison Sprite Map_42: -1269544093
+      M.Bison Sprite Map_43: -743014488
+      M.Bison Sprite Map_44: 744492199
+      M.Bison Sprite Map_45: 1254987053
+      M.Bison Sprite Map_46: -1811461452
+      M.Bison Sprite Map_47: -53660011
+      M.Bison Sprite Map_48: -1015191484
+      M.Bison Sprite Map_49: 262554870
+      M.Bison Sprite Map_5: -1429177800
+      M.Bison Sprite Map_50: 121074002
+      M.Bison Sprite Map_51: 2088487128
+      M.Bison Sprite Map_52: 2142938912
+      M.Bison Sprite Map_6: -322985639
+      M.Bison Sprite Map_7: 921892716
+      M.Bison Sprite Map_8: 1409601749
+      M.Bison Sprite Map_9: -683993971
+      stand_1: 1110759537
+      stand_2: 555087342
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
