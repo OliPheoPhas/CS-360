@@ -12,6 +12,9 @@ public class PlayerOneController : MonoBehaviour
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+
+        // Stay upright
+        rb.freezeRotation = true;
     }
 
     private void Update()

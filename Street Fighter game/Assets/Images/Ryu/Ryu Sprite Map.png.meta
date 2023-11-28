@@ -1,0 +1,1548 @@
+fileFormatVersion: 2
+guid: abb61e25cd8769946b14791705615b5c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ryu Sprite Map_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 752
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c890ebef6a42852418493e870dc2b720
+      internalID: -754828793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 752
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fed28f81e1b3384f9c61b3fa26b2204
+      internalID: -401879565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 752
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68cb1a9e8fea594abbe1781b4b5d54b
+      internalID: 428458449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 752
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef682221fbb25c4aaee7e6dcc9cea7f
+      internalID: -465815102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 752
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d57079e2933aec489c6d886ee4c021e
+      internalID: -628953871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 672
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88f9ae8a2365f0419715daf1dc5ee16
+      internalID: -868408539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 672
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a924613d99e4ff34f818a7013672c8e7
+      internalID: 112867235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 672
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b91abbbd41f9b498d122b1f125722b
+      internalID: 1153309102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 672
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f9263de8bfbfe4fb0dfa6eaff842ad
+      internalID: 563115264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 672
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82c50c5f4ffab64a833eead908923b5
+      internalID: -71165552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 672
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98c3f7e82cf767409cd7010234b5af8
+      internalID: -1895654373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 592
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fc819611afa6d4e92a1196ffbe4420
+      internalID: 1736786895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 592
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972be8f69d55ece4a97cedabf6ea4ab5
+      internalID: 1119099057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 592
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1361edfd3ec5d8a4ab57ea771301b46e
+      internalID: -1213108419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 592
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46096eac65947084c9203dbf9afe03f1
+      internalID: -43875673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 592
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a65a9c90de3a6b4fac0dfc5ae96343e
+      internalID: -790778688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 496
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700dec414289f7b49851f56c52a04fe9
+      internalID: 958822807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 496
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e6e5415c107a249b75cecf517a047b
+      internalID: -153610488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 496
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf5f50f98e09b840bd6cf201bd49cba
+      internalID: 2052672479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 496
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ebf11052c413443a9a9acc58597de9
+      internalID: 1553812133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 496
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba93000fa8e9afe4a926b01b528ea903
+      internalID: -1772499046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 496
+        width: 23
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421b5e85b1769524bbc86bce479f63ad
+      internalID: -1647216596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 496
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ac4ba7892a27041baee4bf7f290be7
+      internalID: 1609551262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 416
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3930cb0d1b98de6489e085883d565a71
+      internalID: 1686601421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad6ad3bc4376a54cbb1a9b6170e7c79
+      internalID: -1646205036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 416
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40680bddca6386c47836bb2b2541cc93
+      internalID: -1131758623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 416
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbde7c1b115e475429a62c527d4d037e
+      internalID: -561969565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 416
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4582ae08e2ee9eb429f3dabe28058a22
+      internalID: 42180530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 416
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8620ada97c86bf419f974e666368a2a
+      internalID: -713027792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 416
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783870d90b1f58b47a4648c8b35b5656
+      internalID: -1814609389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 336
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4311c50cbaa3a334d84f7dc23f66da07
+      internalID: -215671931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8106deb17f10bcb4d8a2cece0e5f62f2
+      internalID: -1365321002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 336
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ae5afdebc43484fa21f75d72cc1f6f
+      internalID: 1217172424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 336
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c3d2fb6ad863d4f98bb8d2721f02cf
+      internalID: 2137006633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_37
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 336
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fe04e677a9032489fe696d2885c89c
+      internalID: 1812102659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_38
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 336
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7433545d8f5293d4dbbc2da7228a0418
+      internalID: -56506544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c953d49899ec3b47bbab5f04b35ef6b
+      internalID: 1823477714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 256
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54452f0200a64a4993e523f58a45105
+      internalID: 287951500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7521c793b758454fb3f331d3efb5ff6
+      internalID: 1439421604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_42
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 256
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d4446abe2db8d41b9348bea446e9b0
+      internalID: -948265490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_43
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 256
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5bd523f5173084ab2d45bf38017a5f
+      internalID: -1673300975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_44
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 256
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f086697da897794ca856ee1087d2a41
+      internalID: 2038162164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 176
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b60415954c63444399daa2514373491
+      internalID: 539185166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_46
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 176
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2681f4e2f1ba6cd478026ce4a90d48c2
+      internalID: -261145356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 167
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3525cec0716d80d48bedfa813ca5429b
+      internalID: 1134487419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_48
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 222
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937727f210a5bd6428a95ea2d988148b
+      internalID: -2043170301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_49
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 220
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122f7b854235bae47bc45390ed39e6d6
+      internalID: -30352764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de697313875b4841aa7ae197fd00f01
+      internalID: 707952376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_51
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547592383f5bcac4c8ef3fb202510d33
+      internalID: -305027538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_52
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0fe5ee2cbdf5e458aa1410db8f6645
+      internalID: -1069214137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_53
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53080f3978897ec48a43080fb084e994
+      internalID: 1474754709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 104
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23e855cc1afbfb4e8379f3d967198bc
+      internalID: -1342302401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 27
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11796494175222848bd3b1b589255f40
+      internalID: -1966685396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_56
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60975415a3f0ff4083e4e2206f85330
+      internalID: 1350312506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d134f92a9732ac4c9204f5d5e823cd3
+      internalID: -2020174554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_58
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 80
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e316f622b332e4b9cb6b09ba0e4c95
+      internalID: -1635192432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_59
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 80
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49dd5f4a68acd148a44cd45934cf281
+      internalID: 1131715680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_60
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 80
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f899a08fcfa414b8dd7dfc024cc2fb
+      internalID: 228574563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_61
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2c80de15a57834d92c82bfa68eecc7
+      internalID: 966932276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_62
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cb92de33dc5e444913acfda1ee0a27
+      internalID: -2069368882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_63
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 25
+        width: 174
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4f6fa5ffb1b144e8e5601c8625d842
+      internalID: 1326984150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 752
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e87b7315ac9974ba2b8b9813c98c41
+      internalID: 1639013654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 752
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4a46a6d8b3df0418a8b0ccd7b04518
+      internalID: 1115562532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu Sprite Map_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 752
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f5168f3af27e84db907a4ffa53635d
+      internalID: 396432302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ryu Sprite Map_0: 1639013654
+      Ryu Sprite Map_1: 1115562532
+      Ryu Sprite Map_10: 1153309102
+      Ryu Sprite Map_11: 563115264
+      Ryu Sprite Map_12: -71165552
+      Ryu Sprite Map_13: -1895654373
+      Ryu Sprite Map_14: 1736786895
+      Ryu Sprite Map_15: 1119099057
+      Ryu Sprite Map_16: -1213108419
+      Ryu Sprite Map_17: -43875673
+      Ryu Sprite Map_18: -790778688
+      Ryu Sprite Map_19: 958822807
+      Ryu Sprite Map_2: -754828793
+      Ryu Sprite Map_20: -153610488
+      Ryu Sprite Map_21: 2052672479
+      Ryu Sprite Map_22: 1553812133
+      Ryu Sprite Map_23: -1772499046
+      Ryu Sprite Map_24: -1647216596
+      Ryu Sprite Map_25: 1609551262
+      Ryu Sprite Map_26: 1686601421
+      Ryu Sprite Map_27: -1646205036
+      Ryu Sprite Map_28: -1131758623
+      Ryu Sprite Map_29: -561969565
+      Ryu Sprite Map_3: -401879565
+      Ryu Sprite Map_30: 42180530
+      Ryu Sprite Map_31: -713027792
+      Ryu Sprite Map_32: -1814609389
+      Ryu Sprite Map_33: -215671931
+      Ryu Sprite Map_34: -1365321002
+      Ryu Sprite Map_35: 1217172424
+      Ryu Sprite Map_36: 2137006633
+      Ryu Sprite Map_37: 1812102659
+      Ryu Sprite Map_38: -56506544
+      Ryu Sprite Map_39: 1823477714
+      Ryu Sprite Map_4: 428458449
+      Ryu Sprite Map_40: 287951500
+      Ryu Sprite Map_41: 1439421604
+      Ryu Sprite Map_42: -948265490
+      Ryu Sprite Map_43: -1673300975
+      Ryu Sprite Map_44: 2038162164
+      Ryu Sprite Map_45: 539185166
+      Ryu Sprite Map_46: -261145356
+      Ryu Sprite Map_47: 1134487419
+      Ryu Sprite Map_48: -2043170301
+      Ryu Sprite Map_49: -30352764
+      Ryu Sprite Map_5: -465815102
+      Ryu Sprite Map_50: 707952376
+      Ryu Sprite Map_51: -305027538
+      Ryu Sprite Map_52: -1069214137
+      Ryu Sprite Map_53: 1474754709
+      Ryu Sprite Map_54: -1342302401
+      Ryu Sprite Map_55: -1966685396
+      Ryu Sprite Map_56: 1350312506
+      Ryu Sprite Map_57: -2020174554
+      Ryu Sprite Map_58: -1635192432
+      Ryu Sprite Map_59: 1131715680
+      Ryu Sprite Map_6: -628953871
+      Ryu Sprite Map_60: 228574563
+      Ryu Sprite Map_61: 966932276
+      Ryu Sprite Map_62: -2069368882
+      Ryu Sprite Map_63: 1326984150
+      Ryu Sprite Map_7: 396432302
+      Ryu Sprite Map_8: -868408539
+      Ryu Sprite Map_9: 112867235
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
