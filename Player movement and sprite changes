@@ -1,0 +1,122 @@
+using UnityEngine;
+
+public class PlayerMove : MonoBehaviour
+{
+    [SerializeField] private float moveSpeed = 5.0f;
+    [SerializeField] private float jumpForce = 10.0f; 
+
+    private Rigidbody rb;
+    private Animator animator;
+    private bool isPunching = false;
+    private bool isKicking = false;
+    private float punchCooldown = 0.5f;
+    private float kickCooldown = 0.8f;
+
+    [SerializeField] private KeyCode upKey;
+    [SerializeField] private KeyCode downKey;
+    [SerializeField] private KeyCode leftKey;
+    [SerializeField] private KeyCode rightKey;
+    [SerializeField] private KeyCode punchKey;
+    [SerializeField] private KeyCode kickKey;
+
+    private void Start()
+    {
+        rb = GetComponent<Rigidbody>();
+        animator = GetComponent<Animator>();
+    }
+
+    private void Update()
+    {
+        MovePlayer();
+
+        if (Input.GetKeyDown(punchKey) && !isPunching)
+        {
+            StartPunch();
+        }
+
+        if (Input.GetKeyDown(kickKey) && !isKicking)
+        {
+            StartKick();
+        }
+
+        if (Input.GetKey(upKey))
+        {
+            Jump();
+        }
+    }
+
+    private void MovePlayer()
+    {
+        float horizontalInput = 0;
+        float verticalInput = 0;
+
+        if (Input.GetKey(upKey))
+        {
+            verticalInput = 1;
+        }
+        else if (Input.GetKey(downKey))
+        {
+            verticalInput = -1;
+        }
+        else if (Input.GetKey(leftKey))
+        {
+            horizontalInput = -1;
+        }
+        else if (Input.GetKey(rightKey))
+        {
+            horizontalInput = 1;
+        }
+
+        Vector3 moveDirection = transform.forward * verticalInput + transform.right * horizontalInput;
+        rb.velocity = new Vector3(moveDirection.x * moveSpeed, rb.velocity.y, moveDirection.z * moveSpeed);
+    }
+
+    private void Jump()
+    {
+        if (IsGrounded())
+        {
+            rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
+        }
+    }
+
+    private bool IsGrounded()
+    {
+        Bounds bounds = GetComponent<BoxCollider>().bounds;
+        float rayLength = bounds.extents.y + 0.1f;
+
+        Ray ray = new Ray(bounds.center, Vector3.down);
+
+        if (Physics.Raycast(ray, rayLength))
+        {
+            return true;
+        }
+
+        return false;
+    }
+
+    private void StartPunch()
+    {
+        isPunching = true;
+        animator.SetTrigger("Punch");
+
+        Invoke("ResetPunch", punchCooldown);
+    }
+
+    private void StartKick()
+    {
+        isKicking = true;
+        animator.SetTrigger("Kick");
+
+        Invoke("ResetKick", kickCooldown);
+    }
+
+    private void ResetPunch()
+    {
+        isPunching = false;
+    }
+
+    private void ResetKick()
+    {
+        isKicking = false;
+    }
+}
