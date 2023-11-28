@@ -20,6 +20,9 @@ public class PlayerTwoController : MonoBehaviour
         col = GetComponent<Collider2D>();
         animator = GetComponent<Animator>();
 
+        // Punch every 5 seconds
+        InvokeRepeating("PerformPunch", 0f, 5f);
+
         // Stay upright
         rb.freezeRotation = true;
     }
@@ -28,5 +31,13 @@ public class PlayerTwoController : MonoBehaviour
     void Update()
     {
         
+    }
+
+    void PerformPunch()
+    {
+        // Trigger the "Punch" animation
+        animator.SetTrigger("Punch");
+
+        // Deal damages once its added in
     }
 }

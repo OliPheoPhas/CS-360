@@ -37,6 +37,11 @@ public class PlayerOneController : MonoBehaviour
             Jump();
         }
 
+        if (Input.GetKeyDown(KeyCode.F) && isGrounded)
+        {
+            animator.SetTrigger("Punch");
+        }
+
         if (horizontalInput != 0)
         {
             // Player is moving, trigger walking animation
