@@ -36,6 +36,17 @@ public class PlayerOneController : MonoBehaviour
         {
             Jump();
         }
+
+        if (horizontalInput != 0)
+        {
+            // Player is moving, trigger walking animation
+            animator.SetBool("IsWalking", true);
+        }
+        else
+        {
+            // Player is not moving, stop walking animation
+            animator.SetBool("IsWalking", false);
+        }
     }
 
     private void Jump()
