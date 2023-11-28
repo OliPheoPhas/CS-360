@@ -227,7 +227,7 @@ Transform:
   m_GameObject: {fileID: 86161276}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5, y: -2.4, z: 0}
+  m_LocalPosition: {x: -5, y: -2.24, z: 0}
   m_LocalScale: {x: 5, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -830,6 +830,7 @@ GameObject:
   - component: {fileID: 1246867179}
   - component: {fileID: 1246867183}
   - component: {fileID: 1246867184}
+  - component: {fileID: 1246867185}
   m_Layer: 0
   m_Name: Player_2
   m_TagString: Untagged
@@ -908,7 +909,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!212 &1246867181
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1010,6 +1011,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   otherCharacter: {fileID: 86161279}
+--- !u!114 &1246867185
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246867178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13f36b9c5e605c243b4dca0ff1cb2a6f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 5
+  jumpForce: 2000
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 8
 --- !u!1 &1390112520
 GameObject:
   m_ObjectHideFlags: 0
