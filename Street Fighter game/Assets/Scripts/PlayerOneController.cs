@@ -5,13 +5,20 @@ using UnityEngine;
 public class PlayerOneController : MonoBehaviour
 {
     public float moveSpeed = 5f;
-    public float jumpForce = 200f;
+    public float jumpForce = 2000f;
+    public LayerMask groundLayer;
 
     private Rigidbody2D rb;
+    private Collider2D col;
+    private bool isGrounded;
+    private Animator animator;
+
 
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        col = GetComponent<Collider2D>();
+        animator = GetComponent<Animator>();
 
         // Stay upright
         rb.freezeRotation = true;
@@ -23,7 +30,9 @@ public class PlayerOneController : MonoBehaviour
         Vector2 movement = new Vector2(horizontalInput, 0);
         rb.velocity = new Vector2(movement.x * moveSpeed, rb.velocity.y);
 
-        if (Input.GetKeyDown(KeyCode.UpArrow))
+        isGrounded = Physics2D.IsTouchingLayers(col, groundLayer);
+
+        if (Input.GetKeyDown(KeyCode.W) && isGrounded)
         {
             Jump();
         }
@@ -31,15 +40,7 @@ public class PlayerOneController : MonoBehaviour
 
     private void Jump()
     {
-        if (IsGrounded())
-        {
-            rb.velocity = new Vector2(rb.velocity.x, jumpForce);
-        }
-    }
-
-    private bool IsGrounded()
-    {
-        RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, 0.1f);
-        return hit.collider != null;
+        animator.SetTrigger("Jump");
+        rb.velocity = new Vector2(rb.velocity.x, jumpForce);
     }
 }
